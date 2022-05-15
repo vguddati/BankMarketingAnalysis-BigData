@@ -37,4 +37,4 @@ using the given parameters to improve the direct marketing campaigns in future.
 - writeup/reporting
 
 # Business Conclusion:
-We found out that numerical features like consumerpriceindex, employeevarrate, pdays, housing_index, default_index, previous, contact_index, euribor3m, nremployed, campaign have high correlation with clients subscribing to term deposit.Based on these , we can prepare for the future markerting champaign
+We found out that numerical features like consumerpriceindex, employeevarrate, pdays, housing_index, default_index, previous, contact_index, euribor3m, nremployed, campaign have high correlation with clients subscribing to term deposit.Based on these features, we can prepare for the future markerting campaigns.
