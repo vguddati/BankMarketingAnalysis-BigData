@@ -13,7 +13,7 @@ using the given parameters to improve the direct marketing campaigns in future.
 * We have also ran Gradient boosting algorithm,Random Forest,Logistic Regression and SVC models on the dataset and passed        weightcol =weight for balancing the dataset.
 
 ### Methods Used
-* feature extraction
+* Feature Extraction
 * Machine Learning models
 * Predictive Modeling 
 * etc.
@@ -23,14 +23,13 @@ using the given parameters to improve the direct marketing campaigns in future.
 * PysparkSql
 * Pandas
 * DataBricks
-* etc. 
 
 ## Needs of this project
-- data exploration/descriptive statistics
+- Exploratory DAta Analysis
 - Data PreProcessing 
 - Feature Extraction -->Age_bucket,pdays_new, min max scaling
 - Data Splitting
-- Feature PreProcessing
+- Feature Preprocessing
 - Feature Selection
 - Model Training and Evaluation
 - Model Ensemble
@@ -38,5 +37,4 @@ using the given parameters to improve the direct marketing campaigns in future.
 - writeup/reporting
 
 # Business Conclusion:
-We found out that numerical features like consumerpriceindex, employeevarrate, pdays, housing_index, default_index, previous, contact_index, euribor3m, nremployed, campaign have 
-high correlation with clients subscribing to term deposit.
+We found out that numerical features like consumerpriceindex, employeevarrate, pdays, housing_index, default_index, previous, contact_index, euribor3m, nremployed, campaign have high correlation with clients subscribing to term deposit.Based on these , we can prepare for the future markerting champaign
