@@ -16,7 +16,7 @@ using the given parameters to improve the direct marketing campaigns in future.
 * Feature Extraction
 * Machine Learning models
 * Predictive Modeling 
-* etc.
+
 
 ### Technologies
 * Pyspark
