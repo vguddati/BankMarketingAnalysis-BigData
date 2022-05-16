@@ -29,7 +29,7 @@ Bank Marketing dataset is obtained from UCI machine learning repository and has 
 * DataBricks
 
 ### Needs of this project
-- Exploratory DAta Analysis
+- Exploratory Data Analysis
 - Data PreProcessing 
 - Feature Extraction -->Age_bucket,pdays_new, min max scaling
 - Data Splitting
