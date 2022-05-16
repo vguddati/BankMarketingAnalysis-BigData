@@ -16,8 +16,10 @@ Bank Marketing dataset is obtained from UCI machine learning repository and has 
 
 ### Methods Used
 * Feature Extraction
+* Fitting pipelines
 * Machine Learning models
 * Predictive Modeling 
+* Evaluation
 
 
 ### Technologies
